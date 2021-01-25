@@ -1,2 +1,3 @@
 # Certifications
-This Repository contains my certifications and specializations
+This Repository contains my certifications in case if I lost them.
+
